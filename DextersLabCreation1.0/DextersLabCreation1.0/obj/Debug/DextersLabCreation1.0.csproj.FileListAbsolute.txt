@@ -1,0 +1,15 @@
+D:\Project_pract\FilesCreation\DextersLabCreation1.0\DextersLabCreation1.0\obj\Debug\MainWindow.g.cs
+D:\Project_pract\FilesCreation\DextersLabCreation1.0\DextersLabCreation1.0\obj\Debug\App.g.cs
+D:\Project_pract\FilesCreation\DextersLabCreation1.0\DextersLabCreation1.0\obj\Debug\DextersLabCreation1.0_MarkupCompile.cache
+D:\Project_pract\FilesCreation\DextersLabCreation1.0\DextersLabCreation1.0\obj\Debug\DextersLabCreation1.0_MarkupCompile.lref
+D:\Project_pract\FilesCreation\DextersLabCreation1.0\DextersLabCreation1.0\bin\Debug\DextersLabCreation1.0.exe.config
+D:\Project_pract\FilesCreation\DextersLabCreation1.0\DextersLabCreation1.0\bin\Debug\DextersLabCreation1.0.exe
+D:\Project_pract\FilesCreation\DextersLabCreation1.0\DextersLabCreation1.0\bin\Debug\DextersLabCreation1.0.pdb
+D:\Project_pract\FilesCreation\DextersLabCreation1.0\DextersLabCreation1.0\obj\Debug\MainWindow.baml
+D:\Project_pract\FilesCreation\DextersLabCreation1.0\DextersLabCreation1.0\obj\Debug\DextersLabCreation1.0.g.resources
+D:\Project_pract\FilesCreation\DextersLabCreation1.0\DextersLabCreation1.0\obj\Debug\DextersLabCreation1._0.Properties.Resources.resources
+D:\Project_pract\FilesCreation\DextersLabCreation1.0\DextersLabCreation1.0\obj\Debug\DextersLabCreation1.0.csproj.GenerateResource.cache
+D:\Project_pract\FilesCreation\DextersLabCreation1.0\DextersLabCreation1.0\obj\Debug\DextersLabCreation1.0.csproj.CoreCompileInputs.cache
+D:\Project_pract\FilesCreation\DextersLabCreation1.0\DextersLabCreation1.0\obj\Debug\DextersLabCreation1.0.exe
+D:\Project_pract\FilesCreation\DextersLabCreation1.0\DextersLabCreation1.0\obj\Debug\DextersLabCreation1.0.pdb
+D:\Project_pract\FilesCreation\DextersLabCreation1.0\DextersLabCreation1.0\obj\Debug\DextersLabCreation1.0.csprojAssemblyReference.cache
